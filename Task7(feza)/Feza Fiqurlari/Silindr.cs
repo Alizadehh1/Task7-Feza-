@@ -10,11 +10,11 @@ namespace Task7_feza_.Feza_Fiqurlari
     {
         public double Hecm()
         {
-            return Pi * (Math.Pow(radius, 2)) * Height;
+            return Math.Round(Math.PI * (Math.Pow(radius, 2)) * Height,2);
         }
         public double Stam()
         {
-            return 2 * (Pi * (Math.Pow(radius, 2))) + 2 * Pi * radius * Height;
+            return Math.Round((2 * (Math.PI * (Math.Pow(radius, 2))) + 2 * Math.PI * radius * Height),2);
         }
     }
 }

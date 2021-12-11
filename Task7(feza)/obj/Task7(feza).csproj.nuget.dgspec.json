@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alide\\OneDrive\\Desktop\\Tasks(c#)\\Task7(feza)\\Task7(feza)\\Task7(feza).csproj": {}
+    "C:\\Users\\alide\\OneDrive\\Desktop\\Tasks(c#)\\Task7(feza)\\Task7-Feza-\\Task7(feza)\\Task7(feza).csproj": {}
   },
   "projects": {
-    "C:\\Users\\alide\\OneDrive\\Desktop\\Tasks(c#)\\Task7(feza)\\Task7(feza)\\Task7(feza).csproj": {
+    "C:\\Users\\alide\\OneDrive\\Desktop\\Tasks(c#)\\Task7(feza)\\Task7-Feza-\\Task7(feza)\\Task7(feza).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alide\\OneDrive\\Desktop\\Tasks(c#)\\Task7(feza)\\Task7(feza)\\Task7(feza).csproj",
+        "projectUniqueName": "C:\\Users\\alide\\OneDrive\\Desktop\\Tasks(c#)\\Task7(feza)\\Task7-Feza-\\Task7(feza)\\Task7(feza).csproj",
         "projectName": "Task7(feza)",
-        "projectPath": "C:\\Users\\alide\\OneDrive\\Desktop\\Tasks(c#)\\Task7(feza)\\Task7(feza)\\Task7(feza).csproj",
+        "projectPath": "C:\\Users\\alide\\OneDrive\\Desktop\\Tasks(c#)\\Task7(feza)\\Task7-Feza-\\Task7(feza)\\Task7(feza).csproj",
         "packagesPath": "C:\\Users\\alide\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alide\\OneDrive\\Desktop\\Tasks(c#)\\Task7(feza)\\Task7(feza)\\obj\\",
+        "outputPath": "C:\\Users\\alide\\OneDrive\\Desktop\\Tasks(c#)\\Task7(feza)\\Task7-Feza-\\Task7(feza)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alide\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,16 +8,17 @@ namespace Task7_feza_.Feza_Fiqurlari
 {
     class DuzbucaqliParaleliped : Feza_Fiqurlari
     {
-        public double width;
-        public double lenght;
+        
+        
+        
 
         public double Hecm()
         {
-            return width * lenght * Height;
+            return width * length * height;
         }
         public double Stam()
         {
-            return 2 * (width * lenght + width * Height + lenght * Height);
+            return 2 * (width * length + width * height + length * height);
         }
     }
 }
